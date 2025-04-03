@@ -1,2 +1,2 @@
 # serial_keyboard
-Emulating an USB keyboard on a black pill.
+Emulating an USB keyboard on a Black Pill board.
